@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className={classes.main}>
       <div>
-        Проект "Мои интервью" состоит из фич:
+        Проект &quot;Мои интервью&quot; состоит из фич:
         <ul>
           <li>календаря интервью</li>
           <li>описание вакансии и требуемых навыков</li>
